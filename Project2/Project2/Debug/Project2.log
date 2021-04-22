@@ -1,0 +1,73 @@
+﻿  Source.cpp
+C:\Users\kalex\source\repos\Project2\Project2\Source.cpp(66,1): warning C4244: +=: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\kalex\source\repos\Project2\Project2\Source.cpp(75,1): warning C4244: +=: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\kalex\source\repos\Project2\Project2\Source.cpp(97,52): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\kalex\source\repos\Project2\Project2\Source.cpp(97,32): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\kalex\source\repos\Project2\Project2\Source.cpp(106,14): warning C4244: инициализация: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\kalex\source\repos\Project2\Project2\Source.cpp(108,15): warning C4244: инициализация: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\kalex\source\repos\Project2\Project2\Source.cpp(118,25): warning C4244: =: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\kalex\source\repos\Project2\Project2\Source.cpp(126,26): warning C4244: =: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\kalex\source\repos\Project2\Project2\Source.cpp(154,23): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\kalex\source\repos\Project2\Project2\Source.cpp(154,20): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\kalex\source\repos\Project2\Project2\Source.cpp(163,1): warning C4244: +=: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\kalex\source\repos\Project2\Project2\Source.cpp(181,52): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\kalex\source\repos\Project2\Project2\Source.cpp(181,32): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\kalex\source\repos\Project2\Project2\Source.cpp(189,14): warning C4244: инициализация: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\kalex\source\repos\Project2\Project2\Source.cpp(191,15): warning C4244: инициализация: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\kalex\source\repos\Project2\Project2\Source.cpp(201,26): warning C4244: =: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\kalex\source\repos\Project2\Project2\Source.cpp(242,16): warning C4244: инициализация: преобразование "sf::Int64" в "double", возможна потеря данных
+C:\Users\kalex\source\repos\Project2\Project2\Source.cpp(283,17): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\kalex\source\repos\Project2\Project2\Source.cpp(284,17): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\kalex\source\repos\Project2\Project2\Source.cpp(299,7): warning C4551: в вызове функции отсутствует список аргументов
+C:\Users\kalex\source\repos\Project2\Project2\Source.cpp(368,48): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\kalex\source\repos\Project2\Project2\Source.cpp(368,30): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\kalex\source\repos\Project2\Project2\Source.cpp(381,4): warning C4551: в вызове функции отсутствует список аргументов
+  Project2.vcxproj -> C:\Users\kalex\source\repos\Project2\Debug\Project2.exe
